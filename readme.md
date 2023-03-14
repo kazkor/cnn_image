@@ -14,3 +14,7 @@ https://www.tensorflow.org/datasets/catalog/resisc45
 
 # Results
 For now, model can achieve up to 93% of correct classifications.
+
+# Predictions
+
+![Test prediction](./predictions/prediction.png)
